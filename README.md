@@ -1,7 +1,7 @@
 # Diachat
 
 ## Demo
-https://github.com/user-attachments/assets/4853d7f4-50f2-4d1d-81e3-da4788c61c9f
+![demo](https://github.com/user-attachments/assets/b386cfa1-f6b4-405d-b070-809ede8de5f3)
 
 ## Overview
 私たちはカスタマーハラスメントから区役所のスタッフを守ると共に，利用者に対してもより正確な情報を与えるための区役所用AIチャットボットを開発しています．
