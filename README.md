@@ -1,7 +1,7 @@
 # Diachat
 
 ## 作品デモ
-![demo](https://github.com/user-attachments/assets/b386cfa1-f6b4-405d-b070-809ede8de5f3)
+https://github.com/user-attachments/assets/9e917c8d-b343-45c3-95d5-3e9a240b338f
 
 ## 課題
 役所の窓口業務におけるカスタマーハラスメント対策を目的としています．
